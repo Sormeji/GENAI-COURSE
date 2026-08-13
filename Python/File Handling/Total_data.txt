@@ -1,0 +1,4 @@
+Hello This is the Generative AI Course
+I am AMIT Your gen ai Instructor 
+trying to teach you Python
+As a Prerequisite for learning Generative AI
